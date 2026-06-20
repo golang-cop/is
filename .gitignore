@@ -19,3 +19,7 @@
 
 # Go workspace file
 go.work
+/bin/
+/__/
+/is
+coverprofile.out
